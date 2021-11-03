@@ -1,1 +1,1 @@
-web gunicorn main_with_session:app
+web: gunicorn main_with_session.app
